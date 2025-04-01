@@ -1,0 +1,33 @@
+.invoice-container {
+    width: 60%;
+    margin: 20px auto;
+    padding: 20px;
+    background: white;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+th {
+    background: pink;
+}
+
+input {
+    width: 80px;
+    padding: 5px;
+    text-align: center;
+}
+
+span {
+    font-weight: bold;
+}
